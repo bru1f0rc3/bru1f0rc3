@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @bru1f0rc3</h1>
-<h3 align="center">A passionate developer with a love for coding and anime!</h3>
+<h3 align="center">A passionate developer who codes daily and always finds time to enjoy anime.</h3>
 
 <h3 align="left">👀 I’m interested in...</h3>
 <p align="left">
